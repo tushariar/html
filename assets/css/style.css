@@ -1,12 +1,16 @@
 *{
     margin: 0;
     padding: 0;
-    outline: none;
-}
-body{
-    font-family: sans-serif;
+    box-sizing: border-box;
 }
 
 .clearfix{
     clear: both;
+}
+
+.red {color: red;}
+.blue {color: dodgerblue;}
+
+body{
+    font-family: 'Poppins', sans-serif;
 }
